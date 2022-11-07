@@ -1,0 +1,3 @@
+F:/CUFE/SBME 2022/First Term/Data Structure/Implementations/Expression Evaluation Using Stack/cmake-build-debug/CMakeFiles/Expression_Evaluation_Using_Stack.dir
+F:/CUFE/SBME 2022/First Term/Data Structure/Implementations/Expression Evaluation Using Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CUFE/SBME 2022/First Term/Data Structure/Implementations/Expression Evaluation Using Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
